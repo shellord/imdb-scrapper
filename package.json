@@ -4,6 +4,7 @@
   "description": "scrap data from imdb web site",
   "main": "index.js",
   "scripts": {
+    "start":"node ./index.js",
     "test": "node ./test/test.js",
     "test-new": "node ./test/test-new.js",
     "fix": "standard --fix",
